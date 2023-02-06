@@ -1,0 +1,8 @@
+{
+  "pids": ["pids"],
+  "metadata": {
+    "license_criteria": ["license_criteria"],
+    "topics_criteria": ["topics_criteria"],
+    "schemas_criteria": {"key": "value"}
+  }
+}
